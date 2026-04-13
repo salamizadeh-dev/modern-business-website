@@ -90,8 +90,8 @@ npm run test
 Clone the project:
 
 ```bash
-git clone https://github.com/salamizadeh-dev/modern-business-landing-page.git
-cd modern-business-landing-page
+git clone https://github.com/salamizadeh-dev/modern-business-website.git
+cd modern-business-website
 ```
 
 Install dependencies:
