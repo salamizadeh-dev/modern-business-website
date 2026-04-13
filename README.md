@@ -29,7 +29,7 @@ This project demonstrates a professional React + TypeScript architecture with se
 ### 📩 Contact Page
 
 
-![Contact Page](./public/Screenshots/Screenshot_Contact.jpeg)
+![Contact Page](./public/screenshots/Screenshot_Contact.jpeg)
 
 
 ---
