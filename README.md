@@ -16,18 +16,20 @@ This project demonstrates a professional React + TypeScript architecture with se
 ### 🏠 Home Page
 
 
-![Screenshot_Home](https://github.com/user-attachments/assets/935a2291-b595-42e8-b7f0-d122e62e8731)
+![Screenshot_Home](https://github.com/user-attachments/assets/b859955c-2db3-428b-9192-d899fc6b0fd2)
+
 
 ### ℹ️ About Page
 
 
-![Screenshot_About](https://github.com/user-attachments/assets/e4df31c9-d9b4-4afc-9a38-0e0fec23e60f)
+![Screenshot_About](https://github.com/user-attachments/assets/cbfffa5a-168e-4fd1-9723-7858768b1735)
+
 
 
 ### 📩 Contact Page
 
 
-![Screenshot_Contact](https://github.com/user-attachments/assets/8e1f701e-a351-4d62-aea5-482d9d76d7b1)
+![Screenshot_Contact](https://github.com/user-attachments/assets/3c7720c9-9ae0-4222-ae1c-a24b51fda933)
 
 
 ---
