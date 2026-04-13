@@ -11,7 +11,7 @@ export function ContactPage() {
       <div className="container contact-page">
         <SectionTitle
           title="Contact"
-          subtitle="Send a message through a clean typed form flow."
+          subtitle="To start your project or getting consultation, Contact us."
         />
 
         <form className="contact-form" onSubmit={handleSubmit}>
