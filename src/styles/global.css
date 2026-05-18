@@ -1,4 +1,8 @@
 @import './tokens.css';
+@import './contact.css';
+@import './sections.css';
+@import './hero.css';
+
 
 * {
   box-sizing: border-box;
