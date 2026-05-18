@@ -1,7 +1,8 @@
 import { Hero } from '../../components/sections/Hero'
 import { Services } from '../../components/sections/Services'
 import { TrustSection } from '../../components/sections/TrustSection'
-import '../../styles/sections.css'
+import { FinalCta } from '../../components/sections/FinalCta'
+import { ContactSection } from '../../components/sections/ContactSection'
 
 export function HomePage() {
   return (
@@ -9,7 +10,8 @@ export function HomePage() {
       <Hero />
       <Services />
       <TrustSection />
-      {/* keep testimonials/contact unchanged for now */}
+      <FinalCta />
+      <ContactSection />
     </>
   )
 }
